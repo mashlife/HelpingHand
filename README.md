@@ -4,7 +4,8 @@
 
 "HELPING HAND" project is a little gift to our community especially in this unstable time. Anyone can be a victim; this is the bitter truth of life...
  
--Everything else is AI generated based on the code
+#### Everything else is AI generated based on the code
+    
     "HELPING HAND" project is a little gift to our community specially in this unstable time. Anyone can be a victim, this is the bitter truth of life. Another bitter truth is we are not superheros or machine man. But together we can be more powerful, more secure. Give it a try and let me know your honest opinions and suggestions. 
 
 
