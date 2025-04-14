@@ -2,10 +2,8 @@
 
 ![App Logo](media/image/hh-logo.png)
 
-"HELPING HAND" project is a little gift to our community especially in this unstable time. Anyone can be a victim; this is the bitter truth of life...
-
-📥 [Download APK] (download_apk)   
-🛒 [Join for closed testing] (https://groups.google.com/g/helpinghandbeta)
+📥 ![**Download APK**](download_apk/)  
+🛒 ![**Get it on Play Store**](https://groups.google.com/g/helpinghandbeta)
 
 
 #### Everything else is AI generated based on the code
