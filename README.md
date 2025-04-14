@@ -3,7 +3,7 @@
 ![App Logo](media/image/hh-logo.png)
 
 📥 [**Download APK**](download_apk/)  
-🛒 [**Get it on Play Store**](https://groups.google.com/g/helpinghandbeta)
+🛒 [**Join closed testing on Play Store**](https://groups.google.com/g/helpinghandbeta)
 
 
 #### Everything else is AI generated based on the code
